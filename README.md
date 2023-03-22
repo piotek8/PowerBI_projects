@@ -40,6 +40,6 @@ The projects are designed to:
 
 
 [Project_Analysis](https://github.com/piotek8/PowerBI_projects/blob/main/Project_Analysis/Project_Analysis.pbix)
-## 👋 QR Code to scan the project
+## 👋 QR Code to scan the projects
 
 <a href="url"><img src="https://user-images.githubusercontent.com/82182989/226906812-5627e377-556a-416b-9759-ffdfb92d123a.png" align="left" height="200" width="200" ></a>
